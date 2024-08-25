@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+    <!-- title use to didplay title of Website -->
+<title>My Website </title>  
+</head>
+
+<body>
+    <!--following tags are used for different heading  -->
+<h1>My First Heading</h1>
+<h2>it is H2 Tag</h2>
+<h3>it is H3 Tag</h3>
+<h4>it is H4 Tag</h4>
+<h5>it is H5 Tag</h5>
+<h6>it is H56 Tag</h6>
+
+ <!-- <p> tag is use to create Paragraph  -->
+<p>My FirstParagraph </p>
+</body>
+
+</html>
